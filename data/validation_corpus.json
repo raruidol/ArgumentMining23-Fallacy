@@ -1,0 +1,60 @@
+{
+  "test": [
+    [
+      "Prof Whittaker is a professor of virology at the Cornell University College. Prof Whittaker said that viruses can be spread by sneezing. Viruses can be spread by sneezing",
+      "None"
+    ],
+    [
+      "Stephen Hawking was an expert on AI. Stephen Hawking said that AI could spell the end of the human race. AI could spell the end of the human race",
+      "AppealtoAuthority"
+    ],
+    [
+      "Alice lives in New York. Alice says that New York City Hall is in Lower Manhattan. New York City Hall is in Lower Manhattan",
+      "None"
+    ],
+    [
+      "David is a cab driver in London. David says that the best way to get to Tower Bridge is by cab. The best way to get to Tower Bridge is by cab",
+      "AppealtoAuthority"
+    ],
+    [
+      "Most people wear black clothes at a funeral. If most people wear black clothes at a funeral, that is acceptable to do. It is acceptable to wear black clothes at a funeral",
+      "None"
+    ],
+    [
+      "Most people drive at least 10 miles per hour over the speed limit. If most people drive at least 10 miles per hour over the speed limit, that is acceptable to do. It is acceptable to drive at least 10 miles per hour over the speed limit",
+      "AppealtoMajority"
+    ],
+    [
+      "The majority of climate scientists agree that humans are causing global warming and climate change. If the majority of climate scientists agree that humans are causing global warming and climate change, there is a reason to believe that is true. There is reason to believe that humans are causing global warming and climate change",
+      "None"
+    ],
+    [
+      "The majority of people we asked agreed that the Earth may be flat. If the majority of people we asked agreed that the Earth may be flat, there is a reason to believe that is true. There is reason to believe that the Earth may be flat",
+      "AppealtoMajority"
+    ],
+    [
+      "I should go out with my friends rather than study for the exam. If I don’t pass the exam, this might affect my GPA, which in turn might impact my chances of going to a good college. Not going to a good college would be a disaster. I should not go out with my friends rather than study for the exam",
+      "None"
+    ],
+    [
+      "We should lower the legal drinking age from 21 to 18 in line with other countries. If we lower it to 18, next it will be 17, then 16, 15, etc. If we lower the legal drinking age, we’ll have ten-year-olds getting drunk in bars! We should not lower the legal drinking age ",
+      "Slipperyslope"
+    ],
+    [
+      "Steve has cheated on a number of past exams. We should doubt Steve's claim that someone else copied his work in this exam",
+      "None"
+    ],
+    [
+      "The CEO was convicted of a DUI in college. We should doubt the CEO's sales report",
+      "AdHominem"
+    ],
+    [
+      "The car salesman argued that I should buy a gas car because they are more reliable than electric cars. The car salesman chose to drive an electric car. The car salesman is not credible in this case. The car salesman's argument that I should buy a gas car is not valid",
+      "None"
+    ],
+    [
+      "Mark argued that you should not take illegal drugs as they can have dangerous side effects. Mark has taken illegal drugs in the past. Mark is not credible in this case. Mark's argument that you should not take illegal drugs is not valid",
+      "AdHominem"
+    ]
+  ]
+}
